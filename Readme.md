@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Щепотьев](https://up.htmlacademy.ru/nodejs/1/user/125753).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Малейков](https://up.htmlacademy.ru/nodejs/1/user/4839).
 
 ---
 
